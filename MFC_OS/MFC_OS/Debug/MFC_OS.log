@@ -1,0 +1,16 @@
+﻿生成启动时间为 2014/10/28 9:50:59。
+     1>项目“F:\MFC_OS\MFC_OS\MFC_OS.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\MFC_OS.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt MFC_OSDlg.cpp
+         MFC_OSDlg.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\MFC_OS\Debug\MFC_OS.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"F:\MFC_OS\Debug\MFC_OS.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\MFC_OS\Debug\MFC_OS.lib" /MACHINE:X86 Debug\MFC_OS.res
+         Debug\MFC_OS.obj
+         Debug\MFC_OSDlg.obj
+         Debug\stdafx.obj
+         MFC_OS.vcxproj -> F:\MFC_OS\Debug\MFC_OS.exe
+     1>已完成生成项目“F:\MFC_OS\MFC_OS\MFC_OS.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.28
